@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Bacon ipsum dolor sit amet flank drumstick tongue short ribs kevin filet mignon, tail ground round jowl venison frankfurter ham hock short loin.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>bacon</tabTrigger>
+  <description>Insert a sentence of Bacon Ipsum</description>
+</snippet>

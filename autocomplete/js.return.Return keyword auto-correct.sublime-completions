@@ -1,0 +1,10 @@
+{
+  "scope" : "*.js",
+  "completions": [
+    { "trigger" : "retrun", "contents" : "return"},
+    { "trigger" : "rteurn", "contents" : "return"},
+    { "trigger" : "retunr", "contents" : "return"},
+    { "trigger" : "ret", "contents" : "return"},
+    { "trigger" : "retu", "contents" : "return"}
+  ]
+}

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.debug($1);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cd</tabTrigger>
+  <description>console.debug() | Debug log string or object to the console.</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id faucibus ligula. Praesent quis mauris in tellus pulvinar malesuada. Fusce cursus sed sem at luctus. Curabitur varius lectus sit amet justo facilisis, id commodo justo malesuada. Maecenas accumsan nulla eu tortor eleifend, vitae hendrerit quam venenatis. In sed malesuada magna. Aliquam vitae justo sodales, venenatis urna quis, mollis nisl. Etiam aliquam mollis diam vitae vehicula. Nam blandit vitae arcu id interdum. Quisque egestas iaculis fringilla.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>loremp</tabTrigger>
+  <description>Insert a sentence of Lorem Ipsum</description>
+</snippet>

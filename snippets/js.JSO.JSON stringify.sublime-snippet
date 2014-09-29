@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+JSON.stringify(${1:obj},null,2)
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>JSO</tabTrigger>
+  <description>Pretty print object.</description>
+</snippet>

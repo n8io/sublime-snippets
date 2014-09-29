@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id faucibus ligula.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>lorem</tabTrigger>
+  <description>Insert a sentence of Lorem Ipsum</description>
+</snippet>

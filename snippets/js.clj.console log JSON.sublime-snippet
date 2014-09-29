@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.log(JSON.stringify(${1:this},null,2));
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>clj</tabTrigger>
+  <description>console.log(JSON) | Log pretty printed JSON to the console.</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

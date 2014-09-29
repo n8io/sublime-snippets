@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.debug('${1}',${1:obj});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdl</tabTrigger>
+  <description>console.debug('label', obj) | Debug log to the console with a label specified.</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

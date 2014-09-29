@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+console.log($1);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cl</tabTrigger>
+  <description>console.log() | Log string or object to the console.</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

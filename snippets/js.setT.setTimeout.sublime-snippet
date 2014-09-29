@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[setTimeout(function() {
+  ${2:// body...}
+}, ${1:millis})
+]]></content>
+    <tabTrigger>setT</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTimeout(function(){},ms)</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

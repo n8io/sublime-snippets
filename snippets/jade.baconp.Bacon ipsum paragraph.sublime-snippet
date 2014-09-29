@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Bacon ipsum dolor sit amet flank drumstick tongue short ribs kevin filet mignon, tail ground round jowl venison frankfurter ham hock short loin. Short ribs beef ribs tongue, ball tip prosciutto kevin pork kielbasa pork chop porchetta jowl filet mignon flank. Ribeye shoulder filet mignon fatback ham swine leberkas, sirloin jowl. Cow ribeye prosciutto boudin strip steak, corned beef short ribs ham swine jerky. Leberkas shankle capicola spare ribs pork. Jerky short loin ball tip, venison doner drumstick kevin leberkas shoulder flank frankfurter andouille swine shankle sausage.
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>baconp</tabTrigger>
+  <description>Insert a paragraph of Bacon Ipsum</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+function(){};
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>noop</tabTrigger>
+  <description>function(){}; | Simple no operation function.</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

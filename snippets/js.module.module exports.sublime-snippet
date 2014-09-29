@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+module.exports = function($1){
+  $2
+};
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>module.exports</tabTrigger>
+  <description> = function(){ ... }; | NodeJs style module.exports function.</description>
+  <scope>source.jade,source.js</scope>
+</snippet>

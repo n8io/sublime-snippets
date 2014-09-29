@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+col-xs-$1.col-sm-$1.col-md-$1.col-lg-$1
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <description>.col-[all]-# | Adds jade classes for BS3 columns</description>
+  <tabTrigger>c--</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.jade</scope>
+</snippet>
