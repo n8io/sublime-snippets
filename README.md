@@ -1,6 +1,5 @@
 #sublime-snippets
-
-##A general collection of Sublime Text snippets.
+A general collection of Sublime Text snippets.
 
 ###Files are named following this format:
 [filetype the shortcut works with].[shortcut].[description][.version].sublime-[snippet||completions]
