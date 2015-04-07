@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-module.exports = function($1){
+module.exports = function($1) {
   $2
 };
 ]]></content>
