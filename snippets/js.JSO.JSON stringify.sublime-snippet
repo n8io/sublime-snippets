@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-JSON.stringify(${1:obj},null,2)
+JSON.stringify(${1:obj}, null, 2);
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>JSO</tabTrigger>
