@@ -6,7 +6,7 @@ A general collection of Sublime Text snippets.
 e.g., js.iife.Immediately invoked function expression.sublime-snippet
 
 ### How to install
-1. ```cd [Sublime Text/Packages/User]```
+1. ```cd [~/Sublime Text/Packages/User (see OS paths below)]```
 2. ```git clone git@github.com:n8io/sublime-snippets.git```
 
 Linux: ~/.config/sublime-text-3/Packages/User
